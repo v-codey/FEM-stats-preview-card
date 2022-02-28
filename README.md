@@ -35,8 +35,8 @@ Users should be able to:
 This is the screenshot of the challenge solution by me.
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Link to live site here](https://v-codey.github.io/FEM-stats-preview-card/)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/femstatspreviewcard-6n4w3rNh3)
+- Live Site URL: [Link](https://v-codey.github.io/FEM-stats-preview-card/)
 
 ## My process
 
@@ -60,7 +60,7 @@ It was a fun challange to complete.
 
 ### Useful resources
 
-
+- This article will introduce a few methods to overlay an image with color in CSS. - [Link](https://www.delftstack.com/howto/css/css-image-overlay-color/)
 
 
 ## Author
